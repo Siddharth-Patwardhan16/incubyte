@@ -3,11 +3,8 @@ function add(number){
         return 0;
     }
 const numArray = number.split(',');
-let sum = 0;
-for(const num of numArray){
-    sum += parseInt(num);
-}
-return sum; 
+
+return numArray.reduce((sum, num) => sum + parseInt(num), 0);
 }
 
 module.exports = {add  };
