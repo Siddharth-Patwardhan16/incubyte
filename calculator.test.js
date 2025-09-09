@@ -1,5 +1,5 @@
 const { add } = require("./calculator");
 
-test('should return 0 for an empty string',() =>{
-    expect(add('')).toBe(0);
-});
+ttest('should return the number when only one number is in the string', () => {
+    expect(add("1")).toBe(1);
+  });
