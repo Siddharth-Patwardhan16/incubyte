@@ -1,0 +1,14 @@
+[33m3cd639a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m feat: passed for negative test
+[33ma4c54af[m test: failed for negative numbers
+[33m631cd07[m feat: passed for // signs
+[33m6c46cd3[m test: failed for new symbols
+[33m4f43e4a[m feat: newLine addition of numbers passed
+[33m625a57f[m test: Failed for two line numbers addition
+[33m0c6f559[m refactor: simply logic for sum of two numbers
+[33m188c355[m fear: pass test for two numbers
+[33mc850cd8[m test: Add failing test for two numbers
+[33m2301d76[m feat: Passed for single number
+[33m86a676c[m test: Add failing test for a single number
+[33m7096fc3[m feat: Pass test for an empty string
+[33m7d4f9af[m test: failed for empty string
+[33mb87583d[m First law abide test

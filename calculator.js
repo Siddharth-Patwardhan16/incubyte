@@ -19,9 +19,6 @@ function add(number) {
   }
   
   return numArray.reduce((sum, current) => sum + parseInt(current), 0);
-
-
-
 }
 
 module.exports = { add };
